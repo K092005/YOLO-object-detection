@@ -126,6 +126,4 @@ Contributions, issues, and feature requests are welcome! Feel free to check the 
 
 ---
 
-<div align="center">
-  <p>Built with ❤️ for Computer Vision enthusiasts.</p>
-</div>
+
